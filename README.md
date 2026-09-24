@@ -1,1 +1,1 @@
-# FRinter-vpn-sub
+# FRinter-vpn
