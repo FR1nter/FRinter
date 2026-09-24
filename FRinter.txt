@@ -7,6 +7,7 @@
 #hide-servers: true
 
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&alpn=h3&insecure=0&sni=hy.quattro-tech.ru#🇷🇺🅸 ℑ𝔵𝔊 (TG: @ixmimxi)
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@213.171.25.178:9830?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇬🇧 Великобритания | @FR1nter
 vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@195.133.80.66:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=firefox&pbk=7wIlBmBcwZG9nSJjhO1CnyowGOfLJWPZHDH2COpxq0Q&sid=8ac3c6d4923149e5#🇵🇱 Польша | @FR1nter
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=random&type=xhttp&mode=auto&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload#🇫🇮 Финляндия | @FR1nter
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#🇷🇺 Россия | @FR1nter
