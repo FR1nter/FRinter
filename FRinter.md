@@ -1,0 +1,16 @@
+#название-профиля: 🅸 Frinter ⚡️
+#интервал-обновления-профиля: 1
+#ссылка-на-поддержку: https://t.me/FR1nter
+#url-страницы-профиля: https://taplink.cc/frinter
+#объявление: ⚡ LTE/5G — обход глушилок
+#подписка-userinfo:
+#hide-servers: true
+
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&alpn=h3&insecure=0&sni=hy.quattro-tech.ru#🇷🇺🅸 ℑ𝔵𝔊 (TG: @ixmimxi)
+vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@195.133.80.66:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=firefox&pbk=7wIlBmBcwZG9nSJjhO1CnyowGOfLJWPZHDH2COpxq0Q&sid=8ac3c6d4923149e5#🇵🇱 Польша | @FR1nter
+vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@212.67.11.76:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=firefox&pbk=EGyjUZi7RTb-PKYQmeXUI1vsm_NtpLEoQyt2_kFvoXY&sid=aa6eb5ce6eb1d70f#🇪🇪 Эстония | @FR1nter
+vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@212.67.11.76:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=firefox&pbk=EGyjUZi7RTb-PKYQmeXUI1vsm_NtpLEoQyt2_kFvoXY&sid=aa6eb5ce6eb1d70f#🇳🇱 Нидерланды | @FR1nter
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#🇷🇺 Россия | @FR1nter
+vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.225.25.195:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app25.betust.net&fp=firefox&pbk=Fe_144ALuRRedGs06ljDnE1f_G2B2wE4i9_diqw5LnY&sid=a16bc894&type=tcp&headerType=none#🇷🇺 LTE/ 5G | @FR1nter
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#🇪🇺 LTE/ 5G | @FR1nter
+vless://b6b222ad-5702-4416-90e7-6b1aa71d65bf@stream.haha222.xyz:443?encryption=none&security=tls&sni=stream.haha222.xyz&alpn=h2%2C%20http%2F1.1&fp=chrome&type=xhttp&mode=packet-up&host=stream.haha222.xyz&path=%2Fapi%2FuploadFile%2F&extra=%7B%22path%22%3A%22%2Fapi%2FuploadFile%2F%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A300000.0%2C%22cMaxReuseTimes%22%3A100.0%2C%22maxConcurrency%22%3A%224-8%22%7D%2C%22seqKey%22%3A%22chunk_id%22%2C%22sessionKey%22%3A%22X-Upload-Token%22%2C%22xPaddingKey%22%3A%22hash%22%2C%22seqPlacement%22%3A%22query%22%2C%22xPaddingHeader%22%3A%22X-Client-Version%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D#🇪🇺 LTE/ 5G | @FR1nter
