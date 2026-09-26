@@ -7,9 +7,12 @@
 #hide-servers: true
 
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&alpn=h3&insecure=0&sni=hy.quattro-tech.ru#🇷🇺🅸 ℑ𝔵𝔊 (TG: @ixmimxi)
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@45.139.197.27:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=angldril.pumpkinpie.study&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&type=tcp&headerType=none#🇬🇧 Великобритания | @FR1nter
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@195.133.80.66:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=firefox&pbk=7wIlBmBcwZG9nSJjhO1CnyowGOfLJWPZHDH2COpxq0Q&sid=8ac3c6d4923149e5#🇵🇱 Польша | @FR1nter
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=random&type=xhttp&mode=auto&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload#🇫🇮 Финляндия | @FR1nter
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?security=tls&fm=%7B%7D&sni=hy.quattro-tech.ru#🇩🇪 Германия | @FR1nter
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?security=tls&fm=%7B%7D&sni=hy.quattro-tech.ru#🇱🇻 Латвия | @FR1nter
+vless://8bbe5178-a991-4a56-871c-553e2f8e9e70@103.245.229.32:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=adminvps.ru&fp=firefox&pbk=sUDdxp5g9lRHlVEH6meJWXah84yhLDyVI7KuZhW-MTQ&sid=b4e44a&type=tcp&headerType=none#🇫🇮 Финляндия | @FR1nter
+hysteria2://5413edfb-08d6-4fba-b51c-809c04feb127@77.110.104.238:443?security=tls&fm=%7B%7D&sni=ch2-hy2.veilvpn.life#🇨🇭 Швейцария | @FR1nter
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#🇷🇺 Россия | @FR1nter
-vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.225.25.195:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app25.betust.net&fp=firefox&pbk=Fe_144ALuRRedGs06ljDnE1f_G2B2wE4i9_diqw5LnY&sid=a16bc894&type=tcp&headerType=none#🇷🇺 LTE/5G | @FR1nter
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#🇪🇺 LTE/5G | @FR1nter
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@188.225.57.78:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=app4.betust.net&pbk=NCW-zK60GXsiDdlbxww18Pqp4kz3zTG1URHWS_bnfDk&sid=3f7e0363&fp=firefox#🇪🇺 LTE/5G | @FR1nter
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@188.225.77.241:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api.betust.net&pbk=YczbievYAOeZIypa58aRpil6XbfdyifK_0cFJWn8-yg&sid=d6c172d3&fp=firefox#🇪🇺 LTE/5G | @FR1nter
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@188.225.44.89:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=app12.betust.net&pbk=Fgd7fSq-ZXnAZd3GUYGEfTyiz9wno4IWVIcs7-Narwg&sid=f73ac93d&fp=firefox#🇪🇺 LTE/5G | @FR1nter
