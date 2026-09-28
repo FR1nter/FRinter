@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://taplink.cc/frinter
-#announce: ⚡ LTE/5G — обход глушилок | 🅸 FRinter 2026. Свободный интернет
+#announce: ⚡ LTE/5G — обход глушилок  |  🅸 FRinter 2026. Свободный интернет
 #subscription-userinfo:
 #hide-servers: true
 
