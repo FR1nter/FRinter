@@ -2,9 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://taplink.cc/frinter
-#announce: TGK: @FR1nter
-Последнее обновление: 22:50 3.10.2026 (МСК)
-Перед подключением проверяйте пинг — ⏱️
+#announce: TGK: @FR1nter | Последнее обновление: 22:50 3.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
 #subscription-userinfo:
 #hide-servers: true
 
