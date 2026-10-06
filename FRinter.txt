@@ -1,7 +1,7 @@
 #profile-title: 🅸 Frinter ⚡️
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
-#profile-web-page-url: https://taplink.cc/frinter
+#profile-web-page-url: https://fr1nter.github.io/FRinter-vpn/
 #announce: TGK: @FR1nter | Последнее обновление: 22:01 5.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
 #subscription-userinfo:
 #hide-servers: true
