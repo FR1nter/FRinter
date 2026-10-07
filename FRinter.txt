@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://fr1nter.github.io/FRinter-vpn/
-#announce: TGK: @FR1nter | Последнее обновление: 21:09 6.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
+#announce: TGK: @FR1nter | Последнее обновление: 10:07 7.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
 #subscription-userinfo:
 #hide-servers: true
 
