@@ -2,13 +2,14 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://fr1nter.github.io/FRinter-vpn/
-#announce: TGK: @FR1nter | Последнее обновление: 22:17 8.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
+#announce: TGK: @FR1nter | Последнее обновление: 20:20 9.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
 #subscription-userinfo:
 #hide-servers: true
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp&headerType=none#🔑 Наш канал: @FR1nter
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp&headerType=none#🔑 Владелец/Поддержка: @ixmimxi
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=swebz.loozerp.wiki&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&spx=%2F&type=tcp&headerType=none#🇺🇸 США | @FR1nter
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&fp=chrome&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect&headers=%7B%0A%20%20%22Host%22%3A%20%22wstg.datasynctrue.online%22%0A%7D#🇫🇮 Финляндия | @FR1nter
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@5.157.10.250:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=swebz.loozerp.wiki&fp=firefox&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&type=tcp&headerType=none#🇸🇪 Швеция | @FR1nter
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp&headerType=none#🤳/🎮 | Соцсети/Игровые 👇
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@5.157.10.250:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=swebz.loozerp.wiki&fp=firefox&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&type=tcp&headerType=none#🇫🇷 Франция | @FR1nter
