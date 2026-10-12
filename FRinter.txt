@@ -2,17 +2,16 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://fr1nter.github.io/FRinter-vpn/
-#announce: TGK: @FR1nter | Последнее обновление: 20:28 10.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
+#announce: TGK: @FR1nter | Последнее обновление: 11:02 12.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
 #subscription-userinfo:
 #hide-servers: true
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp&headerType=none#🔑 Наш канал: @FR1nter
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp&headerType=none#🔑 Владелец/Поддержка: @ixmimxi
 vless://23582db1-9e05-49a1-bfa1-cca9285681eb@191.44.108.38:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.siemens.com&pbk=V_AnDtQn2g3kTFu19MUBCwA0LzmYeU68FlnIHcvlADg&fp=firefox#🇩🇪 Германия | @FR1nter
-vless://49e4b91a-bd15-4e54-9b51-41a3380afb51@45.158.185.172:443?encryption=none&security=tls&sni=z5n1.vpnpolar.online&alpn=http%2F1.1&type=ws&host=z5n1.vpnpolar.online&path=%2Fbeeline&headers=%7B%0A%20%20%22Host%22%3A%20%22z5n1.vpnpolar.online%22%0A%7D#🇵🇱 Польша | @FR1nter
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&fp=chrome&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect&headers=%7B%0A%20%20%22Host%22%3A%20%22wstg.datasynctrue.online%22%0A%7D#🇫🇮 Финляндия | @FR1nter
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp&headerType=none#🤳/🎮 | Соцсети/Игровые 👇
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@ru7.bbobr.win:8447?encryption=none&security=reality&sni=ru7.bbobr.win&fp=firefox&pbk=spxYV3CT-gcnk7ABCozoIyrxKu8n-sl36RL6yDh-8xg&sid=feb22e978bd90e60&type=grpc&mode=gun&authority=ru7.bbobr.win&serviceName=api.v2.9d87796f29#🇨🇦 Канада | @FR1nter
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&type=xhttp&mode=auto&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionIDPlacement%22%3A%22%22%2C%22sessionIDKey%22%3A%22%22%2C%22sessionIDTable%22%3A%22%22%2C%22sessionIDLength%22%3A%220%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A%220%22%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22scMaxBufferedPosts%22%3A0.0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22serverMaxHeaderBytes%22%3A0.0%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hMaxReusableSecs%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A0.0%7D%7D#🇷🇺 Россия | @FR1nter
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&security=none&type=tcp&headerType=none#🏳 | Белые списки 👇
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=random&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#🇳🇱 LTE • 4G/5G | @FR1nter
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#🇪🇺 LTE • 4G/5G | @FR1nter
