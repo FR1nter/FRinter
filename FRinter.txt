@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FR1nter
 #profile-web-page-url: https://fr1nter.github.io/FRinter-vpn/
-#announce: TGK: @FR1nter | Последнее обновление: 11:38 13.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
+#announce: TGK: @FR1nter | Последнее обновление: 10:54 14.10.2026 (МСК) | Перед подключением проверяйте пинг — ⏱️
 #subscription-userinfo:
 #hide-servers: true
 vless://23582db1-9e05-49a1-bfa1-cca9285681eb@191.44.108.38:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.siemens.com&pbk=V_AnDtQn2g3kTFu19MUBCwA0LzmYeU68FlnIHcvlADg&fp=firefox#🇩🇪 Германия | @FR1nter
